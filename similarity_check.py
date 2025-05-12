@@ -37,5 +37,5 @@ def similarity_check(total_images):
                                 i = j
                                 print(i)
             
-# if __name__ == "__main__":
-similarity_check(9000)
+if __name__ == "__main__":
+        similarity_check()
